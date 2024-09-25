@@ -15,7 +15,6 @@ Para rodar este projeto, você precisará de:
 📌 Versão
 
 	•	Versão 1.0: Implementação inicial do projeto com as classes e métodos principais.
-	•	Versão 1.1: Refatoração de validação e melhorias na estruturação do código. Data: 09/09/2024.
 
 
 📝 Descrição do Projeto
